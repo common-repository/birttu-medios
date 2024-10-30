@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-22 19:57+0100\n"
+"PO-Revision-Date: 2018-11-29 19:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: crud\n"
+"X-Poedit-SearchPath-1: css\n"
+"X-Poedit-SearchPath-2: js\n"
+"X-Poedit-SearchPath-3: lang\n"
+
+#: crud/birttu-main.php:62
+msgid "Email:"
+msgstr "Email:"
+
+#: crud/birttu-main.php:66
+msgid "Password:"
+msgstr "Password:"
+
+#: crud/birttu-main.php:70
+msgid "Entrar:"
+msgstr "enter:"
